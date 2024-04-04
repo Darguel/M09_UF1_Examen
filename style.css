@@ -1,0 +1,33 @@
+.menu-hd{
+    display: flex;
+    justify-content: center;
+    border-top: 3px solid red;
+    border-left: 1px solid white;
+    text-decoration: none;
+    color: white;
+}
+.menu-hd:hover{
+    border-top: 3px solid orange;
+}
+
+.color-hd{
+    background-color: #052963;
+}
+.img-logo{
+    display: flex; 
+    justify-content: flex-end;
+}
+.img-logo-hd{
+    width: 200px;
+}
+h4, h3, a{
+    font-family: "Times New Roman", Times, serif;
+    margin-top: 5px;
+}
+
+.linea-ro{
+    border-top:3px solid darkred; background-color: #f8e8db;
+}
+.linea-r{
+    border-top:3px solid red; background-color: #f8e8db;
+}
